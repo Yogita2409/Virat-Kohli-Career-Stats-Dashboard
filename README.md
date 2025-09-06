@@ -29,4 +29,4 @@ Comparison of boundaries (4s vs 6s).
 Clean and visually appealing UI with gradient theme.
 
 Dashboard Preview
-![dashboard preview]()
+![dashboard preview](https://github.com/Yogita2409/Virat-Kohli-Career-Stats-Dshboard/blob/master/VK%20Dashboard.png)
