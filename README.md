@@ -22,7 +22,7 @@ Power BI – Data visualization & dashboarding
 Excel/CSV Dataset – Source of player statistics
 DAX Measures – Used for calculations (averages, strike rates, boundaries etc.)
 
-Excess the live project: https://app.powerbi.com/groups/me/reports/0236042e-5e00-46dd-8aa4-b6bbfe2613ae/a7841588b2c615973d74?experience=power-bi
+Access the live project: https://app.powerbi.com/groups/me/reports/0236042e-5e00-46dd-8aa4-b6bbfe2613ae/a7841588b2c615973d74?experience=power-bi
 
 🚀 Features
 Interactive filters (Format & Year Range).
