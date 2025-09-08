@@ -22,6 +22,8 @@ Power BI – Data visualization & dashboarding
 Excel/CSV Dataset – Source of player statistics
 DAX Measures – Used for calculations (averages, strike rates, boundaries etc.)
 
+Excess the live project: https://app.powerbi.com/groups/me/reports/0236042e-5e00-46dd-8aa4-b6bbfe2613ae/a7841588b2c615973d74?experience=power-bi
+
 🚀 Features
 Interactive filters (Format & Year Range).
 Trend analysis of runs, 50s, and 100s over career span.
@@ -30,3 +32,5 @@ Clean and visually appealing UI with gradient theme.
 
 Dashboard Preview
 ![dashboard preview](https://github.com/Yogita2409/Virat-Kohli-Career-Stats-Dshboard/blob/master/VK%20Dashboard.png)
+
+
